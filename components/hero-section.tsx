@@ -5,6 +5,9 @@ import Link from "next/link"
 export function HeroSection() {
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-background via-background to-muted/30 py-20 lg:py-32">
+      <div className="absolute top-4 right-4 text-sm text-muted-foreground opacity-60">
+        Made By Swarnendu Majumder
+      </div>
       <div className="container mx-auto px-6 lg:px-12 xl:px-16 max-w-7xl">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
