@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Authenticity Validator for Academia - Verify Academic Credentials",
   description:
     "AI + Blockchain powered system to detect fake degrees, tampered certificates, and forged records — protecting institutions, employers, and students.",
-  generator: "v0.app",
+  generator: "authenticator-made-by-swarnendu-majumder",
 }
 
 export default function RootLayout({
