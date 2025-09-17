@@ -39,6 +39,9 @@ export default function VerifyPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-muted/30">
+      <div className="absolute top-4 right-4 text-sm text-muted-foreground opacity-60">
+        Made by Swarnendu Majumder
+      </div>
       <div className="container mx-auto px-6 lg:px-12 xl:px-16 max-w-4xl py-20">
         <div className="text-center mb-12">
           <h1 className="text-4xl lg:text-5xl font-bold mb-4 text-balance">
