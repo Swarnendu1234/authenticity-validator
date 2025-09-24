@@ -99,7 +99,7 @@ export function Footer() {
           <p>© 2025 Authenticity Validator for Academia. All rights reserved.</p>
           <div className="flex flex-col md:flex-row items-center gap-4">
             <p>In collaboration with universities & Higher Education Department, Jharkhand</p>
-            <p className="text-emerald-600 font-medium">Made By Swarnendu Majumder</p>
+            <p className="text-emerald-600 font-medium">Made By HackSpire</p>
           </div>
         </div>
       </div>
