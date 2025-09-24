@@ -1,4 +1,4 @@
-# Document Verification Microservice
+# Document Verification Microservice -- Smart India Hackathon (Team: HackSpire)
 
 ## Overview
 This is a Document Verification microservice UI/assistant that validates academic documents using OCR and database comparison.
