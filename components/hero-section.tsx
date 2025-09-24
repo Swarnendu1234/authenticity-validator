@@ -6,8 +6,8 @@ export function HeroSection() {
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-background via-background to-muted/30 py-20 lg:py-32">
       <div className="absolute top-4 right-4 text-sm text-muted-foreground opacity-60">
-        <div>Made by HackSpire</div>
-        <div>Lead Developer: Swarnendu Majumder</div>
+        <div>Team HackSpire – Smart India Hackathon 2025 </div>
+        <div>Prototype built & designed by Swarnendu Majumder</div>
       </div>
       <div className="container mx-auto px-6 lg:px-12 xl:px-16 max-w-7xl">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
