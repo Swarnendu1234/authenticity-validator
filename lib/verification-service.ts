@@ -42,7 +42,7 @@ export class VerificationService {
     await new Promise(resolve => setTimeout(resolve, 1000))
 
     // Mock OCR results based on canonical files
-    if (fileName === "CLASSXCERTIFICATE.pdf") {
+    if (fileName === "MINDSTROMS2D6.pdf") {
       return {
         name: "Swarnendu Majumder",
         marks: "89.1",
